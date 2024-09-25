@@ -1,0 +1,14 @@
+.themed {
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.light {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.dark {
+    background-color: #333333;
+    color: #ffffff;
+}
